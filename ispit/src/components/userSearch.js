@@ -11,7 +11,7 @@ const UserSearch = () => {
 	};
 
 	return (
-		<div>
+		<div className='user-search'>
 			<input
 				type='text'
 				placeholder='Enter GitHub username'
